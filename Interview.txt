@@ -1,3 +1,9 @@
 what is the use of map ? 
 Map is one of the array method. and it returns seperate array.
 
+what is the use of splice method?
+To copy one array into the another array.
+
+What is the use of the spread operator?
+It pulls all the array elements and creates a new array with those elements.
+

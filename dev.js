@@ -13,3 +13,5 @@ for (let product of products) {
 
 //Map
 console.log(products.map(product => 'item : '+product));
+products.push('Tooth paste');
+console.log(products);
