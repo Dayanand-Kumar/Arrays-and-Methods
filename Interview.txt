@@ -7,3 +7,5 @@ To copy one array into the another array.
 What is the use of the spread operator?
 It pulls all the array elements and creates a new array with those elements.
 
+what is the use of Rest operator?
+Basically rest operator is used for passing the arguments for the function.

@@ -18,5 +18,16 @@ console.log('Before Copy : ',product)
 const copiedProduct = {...product}
 console.log('After Copy  : ', copiedProduct);
 
+//rest operator
+//way 1
+const toArray = (...args) =>{
+    return args;
+}
+// way 2
+// function toArray(...args){
+//     return args;
+// }
+console.log(toArray(1,2,3,4))
+
 
 
